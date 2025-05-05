@@ -1,0 +1,33 @@
+| Style             | How it Works                           | Pros                        | Cons                         |
+| ----------------- | -------------------------------------- | --------------------------- | ---------------------------- |
+|   Client-Server   | One central server does everything     | Simple, secure              | Not scalable, single failure |
+|   Microservices   | Many small services work together      | Scalable, flexible          | Harder to manage             |
+|   P2P (Yahyavi)   | Players share the work with each other | Very scalable, cheap to run | Complex, risk of cheating    |
+
+
+
+
+
+4.
+
+a) Whistleblowing System
+Data-centric
+Keeps the system clean and organized (input, logic, and storage are separate).
+
+Easy to protect user identity and encrypt data.
+
+Good for secure, private systems.
+
+b) Video Conferencing System
+Distributed Systems + Event-based
+Sends video/audio directly between users (faster).
+
+A server helps users connect and log in.
+
+c) GPS Tracker for Cats
+Event-based
+GPS sends updates (events) to a cloud server.
+
+Server processes and shows cat’s location on your phone.
+
+Good for devices that send data often.
